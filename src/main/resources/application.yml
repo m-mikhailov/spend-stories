@@ -1,0 +1,4 @@
+# copy from plaid account
+plaid:
+  client-id: client_id
+  secret: secret
